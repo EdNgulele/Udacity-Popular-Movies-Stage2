@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies 2</string>
+    <string name="movie_detail">Movie</string>
+
+    <string name="BASE_URL">https://api.themoviedb.org/3/</string>
+
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Popular</string>
+    <string name="plot_synopsis">Plot Synopsis </string>
+    <string name="trailer">Trailer</string>
+    <string name="review">Review</string>
+
+
+    <string name="apiKey"></string>
+    <string name="bundle_key">movieData</string>
+
+    <string name="youtube_base_url_video">"https://youtube.com/watch?v="</string>
+    <string name="youtube_base_url_image">"https://img.youtube.com/vi/"</string>
+    <string name="youtube_image_extension">"/mqdefault.jpg"</string>
+
+
+</resources>
